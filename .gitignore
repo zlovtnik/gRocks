@@ -1,0 +1,15 @@
+# Gleam
+build/
+*.beam
+gleam.toml.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
