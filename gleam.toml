@@ -1,7 +1,0 @@
-name = "my_gleam_project"
-version = "1.0.0"
-gleam = ">= 1.0.0"
-description = "A Gleam data processing pipeline with monads"
-licence = "Apache-2.0"
-repository = { type = "github", user = "rcs", repo = "gRocks" }
-targets = ["erlang"]
